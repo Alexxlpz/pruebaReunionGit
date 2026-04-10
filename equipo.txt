@@ -1,6 +1,6 @@
 Equipo
 ------
-	QA - 
-	Analista -
-	Desarrollador 1 -
-	Desarrollador 2 -
+	QA - Daniel Pérez Morales
+	Analista - Alejandro López Ortega
+	Desarrollador 1 - Daniel Flores Jimenez
+	Desarrollador 2 - Mar Pérez Gea
