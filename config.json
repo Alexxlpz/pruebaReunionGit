@@ -4,7 +4,7 @@
 	],
 	"disponibilidad": true,
 	"configuracion" : {
-		"modoNoche" : true,
-		"datosGuardados": 5
+		"modoNoche" : false,
+		"datosGuardados": 3
 	}
 }
