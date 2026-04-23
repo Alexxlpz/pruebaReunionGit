@@ -1,3 +1,13 @@
 <strings>
 	<string name="nombre_app">AppFacturas</string>
+	<string name="1">uno</string>
+	<string name="2">dos</string>
+	<string name="3">tres</string>
+	<string name="4">cuatro</string>
+	<string name="5">cinco</string>
+	<string name="6">seis</string>
+	<string name="7">siete</string>
+	<string name="8">ocho</string>
+	<string name="9">nueve</string>
+	<string name="10">diez</string>
 </strings>
