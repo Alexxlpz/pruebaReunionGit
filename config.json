@@ -6,6 +6,7 @@
 	"disponibilidad": true,
 	"configuracion" : {
 		"modoNoche" : false,
-		"datosGuardados": 5
+		"datosGuardados": 5,
+		"idioma" : "español"
 	}
 }
